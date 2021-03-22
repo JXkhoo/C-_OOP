@@ -1,0 +1,8 @@
+User Manual for Emergency Department Management System
+
+1. Compile and run the program ( **Be sure to add -std=c++11 at Compiler options )
+2. A menu will be display
+3. You may enter the number which will lead you to different function
+4. Be sure to follow the guide before you enter anything, the guidance will be at the back of the sentence, exp (Y/N)
+5. After you have finished the current function and wish to proceed to other function, you can press any button to return to the main menu
+6. If you wish to terminate the program, you may enter 6 on the main menu
